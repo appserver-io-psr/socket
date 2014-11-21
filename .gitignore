@@ -1,0 +1,9 @@
+.idea
+composer.lock
+build.properties
+/target
+/instance-src
+/vendor
+/.buildpath
+/.project
+/.settings
